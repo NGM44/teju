@@ -1,0 +1,35 @@
+{
+  "shopDetail": {
+    "shopName": "Teju",
+    "contactNumber": 9876543210,
+    "shopTiming": "10:30 to 9:30",
+    "shopCordinates": "02934920348 : 4849031832",
+    "address": "Addres Plot no 230, Indira Nagar , Dharwad",
+    "shopImageUrl": "https://img.freepik.com/free-vector/cartoon-style-cafe-front-shop-view_134830-697.jpg?w=2000"
+  },
+  "filterBrand": {
+    "brandName": ["Adidas", "HM", "Nykaa", "Garnier", "Himalaya", "patanjali"]
+  },
+  "product": [
+    {
+      "productName": "Garnier",
+      "review": 4.5,
+      "mrp": 932.3,
+      "wholesale": 324.5,
+      "description": "Lorem loasdo jkakcbk us dbksdknn ckjasjk cj njkjsd kjnb jk djk",
+      "stock": 10,
+      "quantity": "100ml",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40111644_5-himalaya-tan-removal-orange-face-wash.jpg"
+    },
+    {
+      "productName": "Garnier",
+      "review": 4.5,
+      "mrp": 932.3,
+      "wholesale": 324.5,
+      "description": "Lorem loasdo jkakcbk us dbksdknn ckjasjk cj njkjsd kjnb jk djk",
+      "stock": 10,
+      "quantity": "100ml",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40111644_5-himalaya-tan-removal-orange-face-wash.jpg"
+    }
+  ]
+}
